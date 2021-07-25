@@ -1,4 +1,4 @@
-# namp
+# nmap
 <pre>
 # Nmap 7.91 scan initiated Sun Jun  6 09:29:41 2021 as: nmap -sC -sV -A -p- -vv --open -oA nmap/10.10.10.233-Armageddon 10.10.10.233
 Nmap scan report for armageddon.htb (10.10.10.233)
