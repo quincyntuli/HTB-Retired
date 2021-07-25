@@ -90,7 +90,7 @@ $databases = array (
 
 ![](Armageddon-HTB-07.gif)
 
-- credentials were use to retrieve a hash
+- credentials from settings.php were used to retrieve a hash
 ````
 $S$DgL2gjv6ZtxBo6CdqZEyJuBphBmrCqIV6W97.oOsUf1xAhaadURt
 ````
