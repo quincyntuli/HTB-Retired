@@ -66,6 +66,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 - Stabilizing shell <span style="background-color:red;color:fff;font-weight:bold;">fails</span>
 
 ![](Armageddon-HTB-06.gif)
+- using the 'unstable' shell to navigate to sites/default/settings.php, the usual place for database credentials on a drupal site.
 
 
 ````php
