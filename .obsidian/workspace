@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "63a8b8971231bf3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2aba1487054d82c3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10.10.10.230-TheNotebook/README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a08ab58edac2992e",
+    "type": "split",
+    "children": [
+      {
+        "id": "603c7e5d9a33af92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45fe339123f3d0e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1420060fac9e3637",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0d91ea0b4e88756",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a19635293ee6b51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "536ceaabee2a9ef0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10.10.10.230-TheNotebook/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2aba1487054d82c3",
+  "lastOpenFiles": [
+    "10.10.10.230-TheNotebook/README.md",
+    "10.10.10.230-TheNotebook/40 - root.md"
+  ]
+}
